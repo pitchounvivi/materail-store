@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7dcb563-213c-4d9e-9b28-b0251d84335b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/material-store/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/material-store/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/material-store/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/material-store/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/material-store/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/material-store/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/material-store/vendor/easycorp/easy-log-handler" />
+      <path value="$PROJECT_DIR$/material-store/vendor/ocramius/package-versions" />
+      <path value="$PROJECT_DIR$/material-store/vendor/ocramius/proxy-manager" />
+      <path value="$PROJECT_DIR$/material-store/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/material-store/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/form" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/security-guard" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/serializer-pack" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/options-resolver" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/expression-language" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/http-client-contracts" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/twig-pack" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/orm-pack" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/browser-kit" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/mailer" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/validator" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/doctrine-bridge" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/notifier" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/debug-pack" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/profiler-pack" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/monolog-bridge" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/material-store/vendor/composer" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/inflector" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/test-pack" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/http-client" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/material-store/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/web-link" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/intl" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/serializer" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/dom-crawler" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/debug-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/material-store/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/material-store/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/material-store/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/material-store/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/material-store/vendor/zendframework/zend-code" />
+      <path value="$PROJECT_DIR$/material-store/vendor/zendframework/zend-eventmanager" />
+      <path value="$PROJECT_DIR$/material-store/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/material-store/vendor/twig/extra-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/doctrine-migrations-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/event-manager" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/reflection" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/migrations" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/material-store/vendor/doctrine/persistence" />
+      <path value="$PROJECT_DIR$/material-store/vendor/symfony/requirements-checker" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1UjxtJrNBElOmWVJFktPVRachy7" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/templates/user" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrateur\Desktop\symfony\material-store\templates\user" />
+      <recent name="C:\Users\Administrateur\Desktop\symfony\material-store\src\Controller" />
+      <recent name="C:\Users\Administrateur\Desktop\symfony\material-store\src\Controller\Store" />
+      <recent name="C:\Users\Administrateur\Desktop\symfony\material-store\assets" />
+      <recent name="C:\Users\Administrateur\Desktop\symfony\material-store\var\cache" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrateur\Desktop\symfony\material-store\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7dcb563-213c-4d9e-9b28-b0251d84335b" name="Default Changelist" comment="" />
+      <created>1575884018307</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575884018307</updated>
+      <workItem from="1575884019448" duration="10307000" />
+      <workItem from="1575899610943" duration="329000" />
+      <workItem from="1575900026380" duration="527000" />
+      <workItem from="1575900647884" duration="193000" />
+      <workItem from="1575900902052" duration="403000" />
+      <workItem from="1575901389150" duration="1957000" />
+      <workItem from="1575903450592" duration="496000" />
+      <workItem from="1575904063550" duration="1332000" />
+      <workItem from="1575905778526" duration="1769000" />
+      <workItem from="1575966274452" duration="40000" />
+      <workItem from="1575967059614" duration="1956000" />
+      <workItem from="1576747426796" duration="1634000" />
+      <workItem from="1576749289589" duration="195000" />
+      <workItem from="1576749736942" duration="1091000" />
+      <workItem from="1576751273459" duration="21000" />
+      <workItem from="1576751295625" duration="239000" />
+      <workItem from="1576751578521" duration="343000" />
+      <workItem from="1576752482766" duration="8829000" />
+      <workItem from="1576769033769" duration="2034000" />
+      <workItem from="1576838127162" duration="349000" />
+      <workItem from="1576838489877" duration="881000" />
+      <workItem from="1576839477047" duration="1317000" />
+      <workItem from="1576840922670" duration="5576000" />
+      <workItem from="1576850758411" duration="1001000" />
+      <workItem from="1576851792405" duration="1259000" />
+      <workItem from="1576853088537" duration="334000" />
+      <workItem from="1576855061281" duration="853000" />
+      <workItem from="1576856021461" duration="1230000" />
+      <workItem from="1576857332628" duration="129000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

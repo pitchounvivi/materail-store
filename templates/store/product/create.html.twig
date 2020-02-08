@@ -1,0 +1,11 @@
+{% extends 'store/product/_base.html.twig' %}
+
+{% block titleContent %}{{ parent() }} | Create product !{% endblock %}
+
+{% block bodyContent %}
+
+    <h2>Product create</h2>
+
+    {% include 'store/product/_form.html.twig' %}
+
+{% endblock %}

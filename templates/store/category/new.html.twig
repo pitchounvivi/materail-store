@@ -1,0 +1,11 @@
+{% extends 'store/category/_base.html.twig' %}
+
+{% block titleContent %}   {{ parent() }} | new {% endblock %}
+
+{% block bodyContent %}
+
+    <h2>Category New</h2>
+
+    {% include 'store/category/_form.html.twig' %}
+
+{% endblock %}

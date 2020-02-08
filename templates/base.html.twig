@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{% block titleContent %}Material Store{% endblock %}</title>
+
+        {{ encore_entry_link_tags('app_css') }}
+
+    </head>
+    <body>
+
+        {% block header %}
+
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <a class="navbar-brand" href="#">Material Store</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item active">
+                        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ path('store_category_show_all') }}">Catégorie</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ path('store_product_show_all') }}">Produit</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Order</a>
+                    </li>
+
+                    <li class="nav-item">
+                        <a class="nav-link" href="{{ path('user_show_all') }}">User</a>
+                    </li>
+
+                </ul>
+
+                {% block subHeader %}{% endblock %}
+            </div>
+        </nav>
+
+        {% endblock %}
+
+
+        {% block tableContent %}{% endblock %}
+
+
+        {% block bodyContent %}{% endblock %}
+
+        {% block footer %}{% endblock %}
+
+
+        {{ encore_entry_script_tags('app_js') }}
+
+    </body>
+</html>

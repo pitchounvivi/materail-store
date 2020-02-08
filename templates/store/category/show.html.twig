@@ -1,0 +1,45 @@
+{% extends 'store/category/_base.html.twig' %}
+
+
+{% block titleContent %}   {{ parent() }} | show{% endblock %}
+
+
+{% block bodyContent %}
+    <h2>Category</h2>
+
+    <div class="card" style="width: 18rem;">
+        <div class="card-body">
+            <h3 class="card-title">{{category.id}}</h3>
+            <h3 class="card-subtitle mb-2 text-muted">{{category.name}}</h3>
+            <p class="card-text">{{category.description}}</p>
+            <a href="{{ path("store_category_edit",{"id":category.id})}}">Edit</a>
+
+
+            <form action="{{ path("store_category_delete",{"id":category.id})}}" method="post">
+                <input type="hidden" name="_method" value="DELETE"/>
+                <input type="hidden" name="_token" value="{{
+                    csrf_token('delete'~ category.id)
+                }}"/>
+                <button>Delete</button>
+            </form>
+
+        </div>
+    </div>
+
+{% endblock %}
+
+{% block footer %}
+
+    <!-- Footer -->
+    <footer class="page-footer font-small blue">
+
+        <!-- Copyright -->
+        <div class="footer-copyright text-center py-3">© 2018 Copyright:
+            <a href="https://mdbootstrap.com/education/bootstrap/"> MDBootstrap.com</a>
+        </div>
+        <!-- Copyright -->
+
+    </footer>
+    <!-- Footer -->
+
+{% endblock %}

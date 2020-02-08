@@ -1,0 +1,10 @@
+{% extends 'base.html.twig' %}
+
+
+{% block titleContent %}   {{ parent() }} | Product {% endblock %}
+
+{% block subHeader %}
+    {{ parent() }}
+    {% include 'store/product/_sub_header.html.twig' %}
+
+{% endblock %}
